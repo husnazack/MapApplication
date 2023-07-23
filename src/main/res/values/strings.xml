@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MapApplication</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="login">Login</string>
+    <string name="password">Enter your password</string>
+    <string name="register_now">Register Now</string>
+    <string name="email">Enter your Email</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="logout">Logout</string>
+</resources>
